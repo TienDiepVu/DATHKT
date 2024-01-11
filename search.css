@@ -1,0 +1,31 @@
+.result {
+    height: 200px;
+}
+
+.left iframe {
+    height: 100%;
+    border-radius: 10px;
+}
+
+.right {
+    padding: 15px;
+    
+}
+
+.video_title {
+    font-weight: 700;
+    text-transform: uppercase;
+
+}
+
+.video_date {
+    font-size: 14px;
+    color: #626262;
+}
+
+.video_channel {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
